@@ -1,2 +1,3 @@
-# ansible-role-kubeadm
-An Ansible Role for bootstrapping kubernetes
+# ansible-role-kubeadm - DEPRICATED
+
+[https://github.com/edigitalresearch/kube-ha-ansible](https://github.com/edigitalresearch/kube-ha-ansible)
